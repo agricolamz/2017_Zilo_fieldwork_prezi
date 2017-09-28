@@ -48,7 +48,7 @@ class: inverse, center, middle
 # Где
 ```{r}
 df <- read_tsv("villages.csv")
-map.feature(df$lang,
+map.feature(df$lang, 
             features = df$village,
             label = df$village,
             label.hide = FALSE,
