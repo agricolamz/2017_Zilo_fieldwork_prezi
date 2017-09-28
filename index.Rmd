@@ -194,3 +194,7 @@ class: center, middle
 [**lingtypology**](https://ropensci.github.io/lingtypology/)
 
 [**xaringan**](https://github.com/yihui/xaringan)
+
+Наша презентация на GitHub:
+
+<https://agricolamz.github.io/2017_Zilo_fieldwork_prezi>
