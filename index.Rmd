@@ -1,7 +1,7 @@
 ---
-title: "Риквани, Зило, Ботлих, Муни..."
-subtitle: "или как карсиво в Дагестане"
-author: "Neishaymirik: A. Zakirəvə, T. Majsak, S. Martɨnəvə, <br> G. Maros, N. ʁoʃã, S. Verɦeːjs"
+title: "Билол1и исиблакку"
+subtitle: "или как красиво в Дагестане"
+author: "Neishaimurmirik"
 date: "2017/09/29"
 output:
   xaringan::moon_reader:
@@ -31,30 +31,42 @@ class: inverse, center, middle
 ---
 # Кто?
 
-- Neishaymirik
-  - **Не**ж Рошан
+- Neishaimurmirik
+  - **Нэ**ж Рошан
   - Са**ша** Мартынова
-  - **Ай**гуль
-  - Са**мир**а Ферхеес
+  - **Ай**гуль Закирова
+  - Ти**мур** Майсак
+  - Са**ми**ра Ферхеес
   - Га**рик** Мороз
-- Тимур Майсак
+ 
 
 ---
 class: inverse, center, middle
 
 # Где
+
+
 ---
 
 # Где
+
+**Сёлы:** Риквани, Муни, Ботлих, Зило (Ботлихский район республики Дагестана)
+
+**Андийский и ботлихский языки** < аваро-андийская группа < нахско-дагестанская семья
+
 ```{r}
-df <- read_tsv("villages.csv")
+
+df <- read_tsv("villages2.csv")
 map.feature(df$lang, 
-            features = df$village,
-            label = df$village,
+            features = df$lang,
+            color = df$color,
+            label = df$label,
             label.hide = FALSE,
             label.fsize = 19,
             longitude = df$lon,
-            latitude = df$lat)
+            latitude = df$lat,
+            minimap = TRUE,
+            minimap.position = "topleft")
 ```
 
 ---
@@ -67,11 +79,119 @@ map.feature(df$lang,
 
 ---
 # Picture example
-![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/piс_1.jpg)
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/background.jpg)
+
+---
+
+class: inverse, center, middle
+
+# Что
 
 
 ---
 
+# Чем занимались
+
+- Падежи (Саша)
+- Числительные, классы существительных (Гарик)
+- Согласование (Айгуль)
+- Каузативы, аргументная структура глагола (Нэж)
+- Временные формы глагола (Тимур Анатольевич, Самира)
+- Клитики (Тимур Анатольевич)
+- Наклонение, лексика (Самира)
+
+---
+
+И также записали тексты (Муни), и частично расшифровали (Зило) и перевели (Ботлих).
+
+![](https://github.com/agricolamz/2017_Zilo_fieldwork_prezi/blob/master/f1.JPG)
+
+
+---
+
+class: inverse, center, middle
+
+# И что выяснили?
+
+---
+
+Кузнечики в андийском относятся к животным.
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f2.jpg)
+
+---
+
+У андийцев способность к абстрактному мышлению хорошо развита.
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f3.jpg)
+
+
+---
+
+class: center, center
+
+ В андийском "радуга" 
+
+нур
+(от аварского слова нур "луч, сияние"), или 
+ ц1обор-ц1а 
+("божественный огонь").
+
+Кроме в Зило, там "радуга" называют 
+
+сороди йошик1ва хъаммий*
+
+или "лиса украла женщину". 
+
+---
+
+# И что выяснили?
+
+- ДОБАВЛЯЙТЕ СЮДА ЧТО-НИБУДЬ ПРО СВОЮ ТЕМУ
+
+- Хотя в Чечню можно пойти пешком, лекскики, заимствованной из чеченского мало.
+- Выбор формы прошедшего времени - скорее личное чем эвиденциальное дело.
+- Есть больше говоров андийского, чем упоминаются в литературе.
+
+---
+
+# Кроме этого мы
+
+Лазили в горы
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f4.jpg)
+
+---
+
+И в старинные башни
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f5.jpg)
+
+---
+
+Фоткали
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f6.jpg)
+
+---
+
+...
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f7.jpg)
+
+---
+
+...
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f9.jpg)
+
+---
+
+И изучали местную флору
+
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/f8.jpg)
+
+---
 
 
 class: center, middle
