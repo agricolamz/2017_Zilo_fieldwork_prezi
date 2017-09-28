@@ -1,0 +1,85 @@
+---
+title: "Риквани, Зило, Ботлих, Муни..."
+subtitle: "или как карсиво в Дагестане"
+author: "Neishaymirik: A. Zakirəvə, T. Majsak, S. Martɨnəvə, <br> G. Maros, N. ʁoʃã, S. Verɦeːjs"
+date: "2017/09/29"
+output:
+  xaringan::moon_reader:
+    css: ["default", "my_theme.css"]
+    lib_dir: libs
+    nature:
+      highlightStyle: github
+      highlightLines: true
+      countIncrementalSlides: false
+---
+
+```{r setup, include=FALSE}
+options(htmltools.dir.version = FALSE)
+knitr::opts_chunk$set(echo = FALSE,
+                      message=FALSE,
+                      warning= FALSE,
+                      fig.width=10.4,
+                      fig.height=7)
+library(tidyverse)
+library(lingtypology)
+```
+
+class: inverse, center, middle
+
+# Кто?
+
+---
+# Кто?
+
+- Neishaymirik
+  - **Не**ж Рошан
+  - Са**ша** Мартынова
+  - **Ай**гуль
+  - Са**мир**а Ферхеес
+  - Га**рик** Мороз
+- Тимур Майсак
+
+---
+class: inverse, center, middle
+
+# Где
+---
+
+# Где
+```{r}
+df <- read_tsv("villages.csv")
+map.feature(df$lang,
+            features = df$village,
+            label = df$village,
+            label.hide = FALSE,
+            label.fsize = 19,
+            longitude = df$lon,
+            latitude = df$lat)
+```
+
+---
+# Sound example
+Пример звука: 
+<audio controls>
+  <source src="https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/sound.WAV" type="audio/wav">
+</audio>
+
+
+---
+# Picture example
+![](https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/piс_1.jpg)
+
+
+---
+
+
+
+class: center, middle
+
+# Спасибо за внимание!
+
+Слайды сделаны с использованием следующих пакетов:
+
+[**lingtypology**](https://ropensci.github.io/lingtypology/)
+
+[**xaringan**](https://github.com/yihui/xaringan)
