@@ -1,8 +1,8 @@
 lang	village	lat	lon	label	color	check
-Andi	Зило	42.73167	46.31861	Зило	orange3	были
-Andi	Риквани	42.78139	46.31528	Риквани	orange3	были
-Andi	Муни	42.68333	46.31028	Муни	orange3	были
-Botlikh	Ботлих	42.66500	46.22000	Ботлих	sandybrown	были
+Andi	Зило	42.73167	46.31861	"<font color=""red"">Зило</font>"	orange3	были
+Andi	Риквани	42.78139	46.31528	"<font color=""red"">Риквани</font>"	orange3	были
+Andi	Муни	42.68333	46.31028	"<font color=""red"">Муни</font>"	orange3	были
+Botlikh	Ботлих	42.66500	46.22000	"<font color=""red"">Ботлих</font>"	sandybrown	были
 Botlikh	Ашино	42.683462	46.156727	Ашино	sandybrown	были
 Botlikh	Миарсо	42.654059	46.175643	Миарсо	sandybrown	не были
 Andi	Гагатли	42.7973833	46.2906139	Гагатли	orange3	не были

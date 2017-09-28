@@ -31,14 +31,13 @@ class: inverse, center, middle
 ---
 # Кто?
 
-- Neishaimurmirik
+- Neishaimirik
   - **Нэ**ж Рошан
   - Са**ша** Мартынова
   - **Ай**гуль Закирова
-  - Ти**мур** Майсак
   - Са**ми**ра Ферхеес
   - Га**рик** Мороз
- 
+- и Тимур Майсак
 
 ---
 class: inverse, center, middle
@@ -54,7 +53,7 @@ class: inverse, center, middle
 
 **Андийский и ботлихский языки** < аваро-андийская группа < нахско-дагестанская семья
 
-```{r}
+```{r, fig.height=5}
 
 df <- read_tsv("villages2.csv")
 map.feature(df$lang, 
