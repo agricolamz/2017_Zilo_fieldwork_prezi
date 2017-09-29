@@ -49,7 +49,7 @@ class: inverse, center, middle
 
 # Где
 
-**Сёлы:** Риквани, Муни, Ботлих, Зило (Ботлихский район республики Дагестана)
+**Сёла:** Риквани, Муни, Ботлих, Зило (Ботлихский район республики Дагестана)
 
 **Андийский и ботлихский языки** < аваро-андийская группа < нахско-дагестанская семья
 
@@ -72,7 +72,7 @@ map.feature(df$lang,
 ---
 # Где?
 
-<video width="760" rotate = "270" height="480" controls>
+<video width="760" height="480">
   <source src="https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/movie.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
