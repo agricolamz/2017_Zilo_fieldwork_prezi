@@ -73,7 +73,7 @@ map.feature(df$lang,
 # Где?
 
 <video width="760" height="480">
-  <source src="https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/movie2.mp4" type="video/mp4">
+  <source src="https://raw.githubusercontent.com/agricolamz/2017_Zilo_fieldwork_prezi/master/movie.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video> 
 
