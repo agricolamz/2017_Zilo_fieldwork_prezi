@@ -64,6 +64,7 @@ map.feature(df$lang,
             label.fsize = 19,
             longitude = df$lon,
             latitude = df$lat,
+            tile = "Stamen.TerrainBackground",
             minimap = TRUE,
             minimap.position = "topleft")
 ```

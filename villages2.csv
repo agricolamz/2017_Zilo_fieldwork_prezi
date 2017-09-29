@@ -1,26 +1,26 @@
-lang	village	lat	lon	label	color	check
-Andi	Зило	42.73167	46.31861	"<font color=""red"">Зило</font>"	orange3	были
-Andi	Риквани	42.78139	46.31528	"<font color=""red"">Риквани</font>"	orange3	были
-Andi	Муни	42.68333	46.31028	"<font color=""red"">Муни</font>"	orange3	были
-Botlikh	Ботлих	42.66500	46.22000	"<font color=""red"">Ботлих</font>"	sandybrown	были
-Botlikh	Ашино	42.683462	46.156727	Ашино	sandybrown	были
-Botlikh	Миарсо	42.654059	46.175643	Миарсо	sandybrown	не были
-Andi	Гагатли	42.7973833	46.2906139	Гагатли	orange3	не были
-Andi	Анди	42.78333	46.25000	Анди	orange3	не были
-Andi	Гунха	42.78972	46.28167	Гунха	orange3	не были
-Andi	Чанко	42.71833	46.24528	Чанко	orange3	не были
-Andi	Ашали	42.76806	46.30750	Ашали	orange3	не были
-Andi	Кванхидатли	42.65472	46.26000	Кванхидатли	orange3	не были
-Avar	Кижани	42.74031	46.364775	 	yellow	не были
-Andi	Рушуха	42.71509	46.28112	 	orange3	не были
-Avar	Тасута	42.71731	46.22568	 	yellow	не были
-Andi	Хандо	42.72694	46.23361	 	orange3	не были
-Avar	Тандо	42.707696	46.175693	 	yellow	не были
-Avar	Ансалта	42.6939	46.1147	 	yellow	не были
-Avar	Шодрода	42.678426	46.12155	 	yellow	не были
-Avar	Ичичали	42.732617	46.405263	 	yellow	не были
-Karata	Нижнее Инхело	42.645134	46.259367	 	tomato3	не были
-Avar	Рахата	42.6911	46.1414	 	yellow	не были
-Andi	Mekheturi	42.70556	46.23750	 	orange3	не были
-Andi	Tsibilta	42.74322	46.24311	 	orange3	не были
-Andi	Shivor	42.714662	46.256637	 	orange3	не были
+lang	village	lat	lon	label	color
+Andi	Зило	42.73167	46.31861	"<font color=""#cd6600"">Зило</font>"	orange3
+Andi	Риквани	42.78139	46.31528	"<font color=""#cd6600"">Риквани</font>"	orange3
+Andi	Муни	42.68333	46.31028	"<font color=""#cd6600"">Муни</font>"	orange3
+Botlikh	Ботлих	42.66500	46.22000	"<font color=""#cd6600"">Ботлих</font>"	sandybrown
+Botlikh	Ашино	42.683462	46.156727	"<font color=""#cd6600"">Ашино</font>"	sandybrown
+Botlikh	Миарсо	42.654059	46.175643	Миарсо	sandybrown
+Andi	Гагатли	42.7973833	46.2906139	Гагатли	orange3
+Andi	Анди	42.78333	46.25000	Анди	orange3
+Andi	Гунха	42.78972	46.28167	Гунха	orange3
+Andi	Чанко	42.71833	46.24528	Чанко	orange3
+Andi	Ашали	42.76806	46.30750	Ашали	orange3
+Andi	Кванхидатли	42.65472	46.26000	"<font color=""#cd6600"">Кванхидатли</font>"	orange3
+Avar	Кижани	42.74031	46.364775	 	yellow
+Andi	Рушуха	42.71509	46.28112	 	orange3
+Avar	Тасута	42.71731	46.22568	 	yellow
+Andi	Хандо	42.72694	46.23361	 	orange3
+Avar	Тандо	42.707696	46.175693	 	yellow
+Avar	Ансалта	42.6939	46.1147	 	yellow
+Avar	Шодрода	42.678426	46.12155	 	yellow
+Avar	Ичичали	42.732617	46.405263	 	yellow
+Karata	Нижнее Инхело	42.645134	46.259367	 	tomato3
+Avar	Рахата	42.6911	46.1414	 	yellow
+Andi	Mekheturi	42.70556	46.23750	 	orange3
+Andi	Tsibilta	42.74322	46.24311	 	orange3
+Andi	Shivor	42.714662	46.256637	 	orange3
