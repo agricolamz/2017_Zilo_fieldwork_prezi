@@ -32,11 +32,11 @@ class: inverse, center, middle
 # Кто?
 
 - Neishaimirik
-  - **Нэ**ж Рошан
-  - Са**ша** Мартынова
-  - **Ай**гуль Закирова
-  - Са**ми**ра Ферхеес
-  - Га**рик** Мороз
+  - **<font color="#04B486">Нэ</font>**ж Рошан
+  - Са**<font color="#04B486">ша</font>** Мартынова
+  - **<font color="#04B486">Ай</font>**гуль Закирова
+  - Са**<font color="#04B486">ми</font>**ра Ферхеес
+  - Га**<font color="#04B486">рик</font>** Мороз
 - и Тимур Майсак
 
 ---
@@ -143,7 +143,13 @@ class: inverse, center, middle
 
 Кроме того, в Зило радугу называют 
 
-- _sorodi joʃik'ʷa qχammij_ -- "лиса украла женщину". 
+- _sorodi joʃik'ʷa qχammij_ 
+
+
+--
+
+## <div align="center"><font color="#FE2E2E">"ли</font><font color="#FACC2E">са</font> <font color="#BFFF00">укр</font><font color="#0080FF">ала</font><font color="#BF00FF"> женщ</font><font color="#FF0080">ину"</font></div>
+
 
 ---
 
